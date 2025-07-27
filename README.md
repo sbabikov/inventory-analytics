@@ -13,7 +13,6 @@ cd inventory-analytics
 ### 2. Встановіть залежності
 ```
 composer install
-npm install && npm run dev
 
 ```
 
